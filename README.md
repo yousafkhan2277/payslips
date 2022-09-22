@@ -1,5 +1,29 @@
 # payslips
+
+
+```
 vue 3 composition api dashboard 2022
-npm install 
+```
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
 npm run serve
-Enjoy
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).

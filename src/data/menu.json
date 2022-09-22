@@ -1,0 +1,66 @@
+[
+    {
+      "icon": "fa-business-time",
+      "title": "time_entry",
+      "path": "timesheet",
+      "height": "24",
+      "width": "24",
+      "enabled": true
+    },
+    {
+      "icon": "fa-qrcode",
+      "title": "my_information",
+      "path": "my-information",
+      "height": "24",
+      "width": "18",
+      "enabled": true
+    },
+    {
+      "icon": "fa-file-invoice",
+      "title": "payslips",
+      "path": "payslips",
+      "height": "24",
+      "width": "24",
+      "enabled": true
+    },
+    {
+      "icon": "plane",
+      "title": "leaves",
+      "path": "leaves",
+      "height": "24",
+      "width": "24",
+      "enabled": false
+    },
+    {
+      "icon": "fa-chart-simple",
+      "title":"organizationalChart",  
+      "path": "orgchart",
+      "height": "24",
+      "width": "24",
+      "enabled": false
+    },
+    {
+      "icon": "fa-code-pull-request",
+      "title": "expense",
+      "path": "docs",
+      "height": "24",
+      "width": "24",
+      "enabled": true
+    },
+    {
+      "icon": "fa-people-group",
+      "title": "my_team",
+      "path": "my-team",
+      "height": "24",
+      "width": "24",
+      "enabled": true
+    },
+    {
+      "icon": "fa-brands fa-dochub",
+      "title": "documents",
+      "path": "docs",
+      "height": "24",
+      "width": "24",
+      "enabled": true
+    }
+  ]
